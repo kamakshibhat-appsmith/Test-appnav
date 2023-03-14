@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Marketing_customers",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -16,8 +20,8 @@
   "applicationVersion": 2,
   "unpublishedNavigationSetting": {
     "showNavbar": true,
-    "orientation": "top",
-    "navStyle": "stacked",
+    "orientation": "side",
+    "navStyle": "sidebar",
     "position": "static",
     "itemStyle": "text",
     "colorStyle": "theme",
