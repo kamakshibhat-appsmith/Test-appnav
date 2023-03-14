@@ -14,6 +14,17 @@
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "unpublishedNavigationSetting": {
+    "showNavbar": true,
+    "orientation": "top",
+    "navStyle": "stacked",
+    "position": "static",
+    "itemStyle": "text",
+    "colorStyle": "theme",
+    "logoAssetId": "",
+    "logoConfiguration": "logoAndApplicationTitle",
+    "showSignIn": true
+  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false
