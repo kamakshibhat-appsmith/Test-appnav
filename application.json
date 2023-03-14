@@ -31,8 +31,8 @@
   },
   "publishedNavigationSetting": {
     "showNavbar": true,
-    "orientation": "top",
-    "navStyle": "stacked",
+    "orientation": "side",
+    "navStyle": "sidebar",
     "position": "static",
     "itemStyle": "text",
     "colorStyle": "theme",
